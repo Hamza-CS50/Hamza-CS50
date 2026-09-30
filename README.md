@@ -1,18 +1,29 @@
-# 💫 About Me:
-### Hi there! I'm Muhammad Hamza 👋<br><br>I am a **FinTech undergraduate** at **FAST National University (Karachi)**, passionate about the intersection of mathematics, finance, and programming. My goal is to bridge the gap between financial theory and computational implementation.<br><br>- 🔭 **I’m currently working on:** Building my foundation in **Quantitative Finance** and **Data Science**.<br>- 🌱 **I’m currently learning:** Linear Algebra, Financial Modeling, and Advanced Python.<br>- 🎓 **Credentials:** CS50P (Harvard/edX) Certified.<br>- 🎯 **Future Goal:** Aspiring Quantitative Analyst / Trader.<br>- ⚡ **Fun fact:** I'm teaching myself the math required for a Master's in Germany while acing my undergrad.<br><br>🛠 Languages & Tools<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# Muhammad Hamza
 
+FinTech undergraduate at FAST National University (Karachi), interested in fintech management and consulting. I build data projects that turn financial and business questions into working code.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k245556@nu.edu.pk) 
+## Featured projects
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamza-CS50&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hamza-CS50&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-CS50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**[Wallet Risk Profiler](https://github.com/Hamza-CS50/wallet-risk-profiler)**: synthetic digital-wallet data (Pandas/NumPy), PostgreSQL queries that flag users by transaction frequency, average balance and failed payments, and a Streamlit dashboard showing each user's risk profile.
 
----
-[![](https://visitcount.itsvg.in/api?id=Hamza-CS50&icon=0&color=0)](https://visitcount.itsvg.in)
+**[Stock Analysis](https://github.com/Hamza-CS50/Stock-Analysis)**: downloads 5 years of daily price data for any ticker, calculates returns, volatility, Sharpe ratio, CAGR, maximum drawdown, RSI and moving averages, plots four charts, and exports everything to a multi-sheet Excel file.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Currently
+
+- Building data and Python projects in finance
+- Learning Financial Modeling and advanced Python
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:k245556@nu.edu.pk)
